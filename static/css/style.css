@@ -8,6 +8,8 @@ body,
 html {
   height: 100%;
 }
+
+/* style the legend */
 .legend {
   padding: 8px 8px;
   font-family: Sanchez, serif;
